@@ -1,0 +1,83 @@
+/* General Body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f8;
+    margin: 40px;
+    color: #333;
+}
+
+/* Headings */
+h1 {
+    color: #2c3e50;
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 5px;
+    margin-top: 30px;
+}
+
+h2, h5 {
+    color: #34495e;
+}
+
+/* Contact Info */
+h4 {
+    margin: 3px 0;
+    color: #555;
+}
+
+/* Paragraph */
+p {
+    line-height: 1.6;
+}
+
+/* Lists */
+ul {
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+/* Tables */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+/* Table Borders */
+table, th, td {
+    border: 1px solid #3498db;
+}
+
+/* Table Header */
+th {
+    background-color: #3498db;
+    color: white;
+    text-align: left;
+}
+
+/* Table Data */
+td {
+    padding: 10px;
+}
+
+/* Alternate Row Color */
+tr:nth-child(even) {
+    background-color: #ecf0f1;
+}
+
+/* Links (GitHub, LinkedIn) */
+a {
+    color: #3498db;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Section spacing */
+section {
+    margin-bottom: 20px;
+}
